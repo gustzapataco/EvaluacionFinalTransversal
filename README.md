@@ -71,7 +71,7 @@ LlanquihueTour
 ```
 
 ---
-# Principios de Programación Orientada a Objetos aplicados
+# Principios de POO aplicados
 
 ## Encapsulamiento
 Todas las clases poseen atributos privados (`private`) y métodos públicos (`getters` y `setters`), protegiendo la información y controlando el acceso a los datos.
