@@ -141,7 +141,7 @@ que posteriormente es implementado por las distintas entidades del sistema.
 # Colecciones utilizadas
 Para administrar la información del sistema se utilizaron colecciones dinámicas mediante:
 
-- ArrayList <Cliente>
+- ArrayList < Cliente >
 - ArrayList <Producto>
 - ArrayList <ServicioTuristico>
 - ArrayList <Reserva>
