@@ -1,0 +1,6 @@
+RutaGastronomica;Sabores de Puerto Varas;5;4
+RutaGastronomica;Ruta del Salmon;4;3
+PaseoLacustre;Lago Llanquihue;2;Catamaran
+PaseoLacustre;Bahia de Frutillar;1.5;Lancha
+ExcursionCultural;Museo Colonial Aleman;3;Frutillar
+ExcursionCultural;Fuerte San Antonio;2.5;Ancud

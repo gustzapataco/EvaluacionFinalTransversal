@@ -1,0 +1,4 @@
+P001;Tour Volcan Osorno;Excursion al volcan Osorno;25000;20
+P002;Paseo Lago Llanquihue;Recorrido por el lago Llanquihue;18000;30
+P003;Ruta Gastronomica;Tour culinario por Puerto Varas;32000;15
+P004;Excursion Cultural;Visita a museos y patrimonio;15000;25
