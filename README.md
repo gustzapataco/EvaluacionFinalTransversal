@@ -296,4 +296,5 @@ Sistema finalizado correctamente.
 **Gustavo Zapata Covarrubias**
 
 Estudiante de carrera Analista Programador Computacional
+
 Proyecto academico para el ramo Desarrollo Orientado Objetos I - DUOC UC Online
